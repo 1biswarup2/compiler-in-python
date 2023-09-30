@@ -1,5 +1,5 @@
-# Lets_Build_a_Compiler_LIVE
-This is a python implementation of JamieBuild's "Super Tiny Compiler"
+
+This is a python implementation of  a Tiny Compiler
 
 
 ## Overview
