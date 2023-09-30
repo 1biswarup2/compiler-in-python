@@ -13,6 +13,6 @@ It's the code for a super tiny compiler. It takes an input expression in LISP an
 
 ## Usage
 
-Type 'python compiler.py' into a command line to run this code. You can switch out the input expression in the main function with your own to test out different outputs.
+Type 'python Tiny_compiler.py' into a command line to run this code. You can switch out the input expression in the main function with your own to test out different outputs.
 
 
